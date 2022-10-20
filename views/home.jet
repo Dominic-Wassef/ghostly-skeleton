@@ -13,9 +13,9 @@
         <div>
             <img src="/public/images/ghostly.jpg" class="mb-5" style="width: 200px;height:auto;">
             <h1>Ghostly</h1>
-            <h3>Email: dominic@wassef.dev</h3>
+            <p>A simple, lightweight, fast full-stack framework for Golang</p>
             <hr>
-            <small class="text-muted">Go build something awesome</small>
+            <a href="mailto:Dominic@Wassef.dev">Dominic@Wassef.dev</a>
         </div>
     </div>
 </div>
