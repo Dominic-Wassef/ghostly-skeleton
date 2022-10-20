@@ -1,0 +1,1 @@
+# Ghostly Skeleton Application

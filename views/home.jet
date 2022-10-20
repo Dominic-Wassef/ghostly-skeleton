@@ -1,0 +1,28 @@
+{{extends "./layouts/base.jet"}}
+
+{{block browserTitle()}}Welcome{{end}}
+
+{{block css()}}
+
+{{end}}
+
+{{block pageContent()}}
+
+<div class="col text-center">
+    <div class="d-flex align-items-center justify-content-center mt-5">
+        <div>
+            <img src="/public/images/ghostly.jpg" class="mb-5" style="width: 200px;height:auto;">
+            <h1>Ghostly</h1>
+            <h3>Email: dominic@wassef.dev</h3>
+            <hr>
+            <small class="text-muted">Go build something awesome</small>
+        </div>
+    </div>
+</div>
+
+{{end}}
+
+
+{{block js()}}
+
+{{end}}
